@@ -11,7 +11,7 @@ import java.io.*;
 
 /**
  *
- * @author manis
+ * @author manish
  */
 public class Notepad extends JFrame implements ActionListener{
     
