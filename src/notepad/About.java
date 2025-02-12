@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.*;
 
 /**
- * @author Manish Kumar
+ * @author manish
  */
 public class About extends JFrame implements ActionListener {
 
